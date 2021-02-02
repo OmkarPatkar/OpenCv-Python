@@ -3,7 +3,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("../other/gradient.png", 0)
+img = cv2.imread("gradient.png", 0)
 #lower thresholding considered as 127 
 #and upper thresholding as 255
 # if the pixel value in the image is lower than 127 then the pixel is assigned to 255  
