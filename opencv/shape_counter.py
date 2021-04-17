@@ -1,3 +1,12 @@
+"""
+Implementation: 
+
+Run the following command: 
+
+python shape_counter.py -i aa.png -o pic2.png        
+
+"""
+
 # import libraries
 import argparse
 import cv2 as cv
