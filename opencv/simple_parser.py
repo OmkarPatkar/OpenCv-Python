@@ -1,3 +1,11 @@
+"""
+Implementation: 
+
+Run the following command: 
+
+python simple_parser.py -n YourName      
+
+"""
 # import libraries
 import argparse
 
